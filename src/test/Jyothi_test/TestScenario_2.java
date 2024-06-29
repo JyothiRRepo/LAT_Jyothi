@@ -1,4 +1,4 @@
-package Tej_test;
+package Jyothi_test;
 
 import java.net.MalformedURLException;
 import java.util.HashMap;
@@ -42,8 +42,8 @@ public class TestScenario_2 {
         capabilities.setCapability("tunnel", false);
 
         HashMap<String, Object> ltOptions = new HashMap<>();
-        ltOptions.put("user", "tejkumarb8143");
-        ltOptions.put("accessKey", "CwhC2lYyUasoAz7LAhKg9j3CPwqJ8ur5zS73h4J1ebNwHCDYeC");
+        ltOptions.put("user", "jyothirathnakumari");
+        ltOptions.put("accessKey", "ECyQL3cb4C0mYbAgwQXCv0DWeU9T4gCFYbbQFeURPeXmRCofJE");
 
 
         capabilities.setCapability("LT:Options", ltOptions);

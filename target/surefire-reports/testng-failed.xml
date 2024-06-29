@@ -9,31 +9,31 @@
     <parameter name="version" value="latest"/>
     <parameter name="platform" value="macOS Catalina"/>
     <classes>
-      <class name="Tej_test.TestScenario_1">
-        <methods>
-          <include name="tearDown"/>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- Tej_test.TestScenario_1 -->
-      <class name="Tej_test.TestScenario_2">
+      <class name="Jyothi_test.TestScenario_2">
         <methods>
           <include name="setUp"/>
           <include name="setUp"/>
           <include name="tearDown"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- Tej_test.TestScenario_2 -->
-      <class name="Tej_test.TestScenario_3">
+      </class> <!-- Jyothi_test.TestScenario_2 -->
+      <class name="Jyothi_test.TestScenario_3">
         <methods>
-          <include name="tearDown"/>
-          <include name="tearDown"/>
           <include name="setUp"/>
           <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
           <include name="TestScenario3"/>
         </methods>
-      </class> <!-- Tej_test.TestScenario_3 -->
+      </class> <!-- Jyothi_test.TestScenario_3 -->
+      <class name="Jyothi_test.TestScenario_1">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- Jyothi_test.TestScenario_1 -->
     </classes>
   </test> <!-- SafariTest(failed) -->
 </suite> <!-- Failed suite [Parallel Test Suite] -->

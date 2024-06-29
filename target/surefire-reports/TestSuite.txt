@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 73.408 s <<< FAILURE! - in TestSuite
-Tej_test.TestScenario_3.TestScenario3  Time elapsed: 5.323 s  <<< FAILURE!
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 95.337 s <<< FAILURE! - in TestSuite
+Jyothi_test.TestScenario_3.TestScenario3  Time elapsed: 5.395 s  <<< FAILURE!
 java.lang.AssertionError: Both text same.......... expected [Please fill in this field.] but found [Please fill out this field.]
-	at Tej_test.TestScenario_3.TestScenario3(TestScenario_3.java:72)
+	at Jyothi_test.TestScenario_3.TestScenario3(TestScenario_3.java:72)
 
